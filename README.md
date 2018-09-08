@@ -9,7 +9,7 @@
 ## How To Use
 >
 ```
-git clone https://github.com/wahyuarief/simple-encoding.git
+git clone https://github.com/wahyuief/simple-encoding.git
 cd simple-encoding/
 python2 main.py
 ```
